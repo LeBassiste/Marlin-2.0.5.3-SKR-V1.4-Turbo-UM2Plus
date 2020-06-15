@@ -1,5 +1,6 @@
 # Marlin-2.0.5.3-SKR-V1.4-Turbo-UM2Plus
-Marlin 2.0.5.3 Settings for BIGTREE SKR 1.4_Turbo, TMC5160 to drive Ultimaker UM2+ 3D Printer					
+Marlin 2.0.5.3 Settings for BIGTREE SKR 1.4_Turbo, TMC5160 to drive Ultimaker UM2+ 3D Printer
+
 1.Required Hardware					
   a.  1	 BTT SKR 1.4 Turbo				
   b.  4	TMC5160 Stepper drivers				
