@@ -5,8 +5,8 @@ Marlin 2.0.5.3 Settings for BIGTREE SKR 1.4_Turbo, TMC5160 to drive Ultimaker UM
   a.  1	 BTT SKR 1.4 Turbo				
   b.  4	TMC5160 Stepper drivers				
   c.  1	BTT DCDC Power Module for SKR 1.4				
-  d.  1	 PT100 Pre-Amplifier (Ultimaker Style), 3 channel, must use VDD = 3.3 VDC (DIY), see KICAD files			
-  e.  1	MOSFET Adapter Board to run Hotend Fan off of SERVO connector (DIY)				
+  d.  1	 PT100 Pre-Amplifier (Ultimaker Style), 3 channel, must use VDD = 3.3 VDC (DIY), see KICAD file	SKR14_PT100_Amp		
+  e.  1	MOSFET Adapter Board to run Hotend Fan off of SERVO connector (DIY), see KICAD file SKR14_FAN_DRIVE				
 
 2. What will these Mods do?					
 	a.  Enable flicker-free dimmable Case Lighting, using the original Ultimaker Case LEDs @ 24 VDC and high frequency PWM dimming		
