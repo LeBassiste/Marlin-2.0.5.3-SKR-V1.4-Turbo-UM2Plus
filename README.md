@@ -1,5 +1,14 @@
 # Marlin-2.0.5.3-SKR-V1.4-Turbo-UM2Plus
 Marlin 2.0.5.3 Settings for BIGTREE SKR 1.4_Turbo, TMC5160 to drive Ultimaker UM2+ 3D Printer
+version V2 contains updated and sanitized header files to reflect changes in
+configuration.h
+configuration_adv.h
+pins_BT_SKR_c ommon.h
+search for "habe" to find all modifications
+
+reduced spill when preloading hotend before print.
+increased motor currents to 800 mA and 32 microsteps to improve wall smoothness.
+
 
 1.Required Hardware					
   a.  1	 BTT SKR 1.4 Turbo				
